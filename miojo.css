@@ -3,7 +3,6 @@
    and (max-width : 1024px) {
     body{
       background-color: #ffd41f;
-     
     }
     .nav-bar{
       display: flex;
@@ -14,7 +13,6 @@
       border: solid 1px;
       top: 0;
       align-items: center;
-      
     }
     .container-1{
       display: flex;
@@ -73,8 +71,6 @@
     margin-left: calc(5%);
     box-shadow: inset 0 0 1em #ffd41f, 0 0 1em #3E92CC;
     border-radius: 5px;
-    
-    
     }
     p{
       font-family: 'Lobster';
